@@ -1,1 +1,1 @@
-Hello! I'm Aya. This is for FCC.
+This is for git-it challenge.
